@@ -1,2 +1,2 @@
 #Studentu saraksts
-## Inguna
+## Inguna Vainute
